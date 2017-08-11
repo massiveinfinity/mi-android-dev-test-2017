@@ -52,9 +52,10 @@ Production ready solution that you are proud of.
 ## Technical Requirement
 1. Source code must be stored in git repository (you can send it as github or bitbucket link, dropbox/google drive public folder, etc. **NOTE: email servers will reject .zip files with source code**)
 2. App should be able to work offline after initial use.
-3. Candidates are free to use any libraries.
-4. Project must compile in Android Studio and Gradle
-5. Support multi pane layout in tablet landscape orientation
+3. App should be able to handle server errors. By design, the API will randomly produce these errors.
+4. Candidates are free to use any libraries.
+5. Project must compile in Android Studio and Gradle
+6. Support multi pane layout in tablet landscape orientation
 
 ## Wireframe
 *For reference only, you can be creative with design and UI/UX features.*
