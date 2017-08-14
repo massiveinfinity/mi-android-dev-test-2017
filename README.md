@@ -60,5 +60,3 @@ Production ready solution that you are proud of.
 ## Wireframe
 *For reference only, you can be creative with design and UI/UX features.*
 ![Wireframe](https://github.com/massiveinfinity/mi-android-dev-test-2017/blob/master/wireframe.png)
-
-**Questions? We love to answer: <jan@massiveinfinity.com>**
