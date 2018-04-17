@@ -10,7 +10,7 @@ As an app user, I want to see:
 
 **Get list of deliveries**
   * API
-    `http://mi-mobile-dev.ap-southeast-1.elasticbeanstalk.com`
+    `https://staging.massiveinfinity.com/api`
   * Method
     `GET`
   * Endpoint
